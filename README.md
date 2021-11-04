@@ -1,4 +1,10 @@
 # Interview Scheduler
+a web-app that lets you set up interview times for select interview 
+
+## Screenshots
+
+!["screenshot description"](https://github.com/nathan-judge/scheduler/blob/master/public/images/schedular-home.png)
+!["screenshot description"](https://github.com/nathan-judge/scheduler/blob/master/public/images/scheduler-create.png)
 
 ## Setup
 
