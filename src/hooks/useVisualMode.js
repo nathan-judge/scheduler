@@ -9,7 +9,6 @@ export default function useVisualMode(initial) {
         } else {
             setMode(mode);
             setHistory([...history, mode]);
-            // console.log([...history, mode]);
         }
     }
 
