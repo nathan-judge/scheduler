@@ -1,5 +1,5 @@
 # Interview Scheduler
-a web-app that lets you set up interview times for select interview 
+a web-app that lets you set up interview times for select interviewers
 
 ## Screenshots
 
